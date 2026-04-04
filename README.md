@@ -1,7 +1,7 @@
 🛒 The Online Store
 A clean, responsive static e-commerce storefront showcasing a curated collection of fashion and accessories. Built with a focus on simplicity and a modern user interface.
 🔗 Live Site
-View the deployed store here: 
+View the deployed store here: https://jprhs11.github.io/STATIC-WEBSITE-DEPLOYMENT/
 🛍️ Featured Products
 The store currently features a variety of essential items:
 Apparel: Denim Jackets, Classic T-Shirts, and cozy Scarves.
