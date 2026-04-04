@@ -1,7 +1,7 @@
 🛒 The Online Store
 A clean, responsive static e-commerce storefront showcasing a curated collection of fashion and accessories. Built with a focus on simplicity and a modern user interface.
 🔗 Live Site
-View the deployed store here: github.io
+View the deployed store here: 
 🛍️ Featured Products
 The store currently features a variety of essential items:
 Apparel: Denim Jackets, Classic T-Shirts, and cozy Scarves.
@@ -14,8 +14,7 @@ Static Deployment: Lightweight and fast-loading, optimized for GitHub Pages.
 🚀 Local Setup
 Clone the repository:
 bash
-git clone https://github.com
-Use code with caution.
+git clone https://github.com/jprhs11/STATIC-WEBSITE-DEPLOYMENT.git
 
 Launch:
 Open index.html in any modern web browser to view the store locally.
@@ -31,7 +30,6 @@ text
 ├── assets/             # Product images (Watch, Bag, Sunglasses, etc.)
 ├── css/                # Styling and layout rules
 └── README.md           # Project documentation
-Use code with caution.
 
 📝 License
 This project is open-source and available under the MIT License.
